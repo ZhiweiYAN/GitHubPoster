@@ -1,0 +1,6 @@
+652749865672441856 2015-10-10 07:37:50 +0000 <vicwong> @Cocoatech Wishlist: Keep selected item visible when you change sort order in list view (as the Mac's Finder does.)
+374332339603517440 2013-09-02 00:45:59 +0000 <vicwong> Very interesting mount and grip for iPad  http://t.co/M4M0VOvL31
+15730195217 2010-06-08 20:24:47 +0000 <vicwong> Win the ultimate $10,000 Canon 5D Mark II camera setup to celebrate the release of Camera+ for iPhone at WWDC  http://tinyurl.com/camplus
+[!] No more data! Scraping will stop now.
+found 0 deleted tweets in this search.
+['twitter'] poster drawer done in `OUT_FOLDER`
